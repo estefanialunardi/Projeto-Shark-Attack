@@ -153,9 +153,8 @@ Aquarius (Water Bearer): January 20 - February 18
 Pisces (Fish): February 19 – March 20
 ### Is there a more fatal season sign?
 Now, let's face some facts: regardless what do papers say, aries are not what they say. At least, not considering sharks :rofl:	
-![tabela 2 - signos count](https://user-images.githubusercontent.com/101064720/161963357-099e76b5-7998-476c-ada9-190053200b3b.PNG)
-![tabela 2 - signos fatais count](https://user-images.githubusercontent.com/101064720/161963374-8d43a4ad-6f94-4681-b7c9-e36e4aa96411.PNG)
-
+<img src="https://user-images.githubusercontent.com/101064720/161963357-099e76b5-7998-476c-ada9-190053200b3b.PNG" align="right">
+<img src="https://user-images.githubusercontent.com/101064720/161963374-8d43a4ad-6f94-4681-b7c9-e36e4aa96411.PNG" align="center">
 
 
 
