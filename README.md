@@ -8,8 +8,8 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/estefanialunardi/) 
 
 
-# When will I face a shark?
 <img src="https://user-images.githubusercontent.com/101064720/161985824-a47d35b4-fffe-4f7b-9a1b-fdf25dfab432.jpg" width="300" align="right">
+# When will I face a shark?
 
 This project is a short analysis of Shark Attacks around the world existing database. My prime objective was to analyse the most probable moments to face an incident with a shark, considering the past repported events.
 
