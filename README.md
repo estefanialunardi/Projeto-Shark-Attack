@@ -10,6 +10,8 @@
 
 
 # When will I face a shark?
+<img src="://user-images.githubusercontent.com/101064720/161985824-a47d35b4-fffe-4f7b-9a1b-fdf25dfab432.jpg" width="800" align="right">
+
 This project is a short analysis of Shark Attacks around the world existing database. My prime objective was to analyse the most probable moments to face an incident with a shark, considering the past repported events.
 
 I focused my work on a quantitative analysis of the data, considering the frequency of attacks depending on the periods of the day, the month and the year.
