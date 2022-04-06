@@ -5,12 +5,11 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ![Love](https://img.shields.io/badge/Love-pink?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViIFNwb25zb3JzIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xNy42MjUgMS40OTljLTIuMzIgMC00LjM1NCAxLjIwMy01LjYyNSAzLjAzLTEuMjcxLTEuODI3LTMuMzA1LTMuMDMtNS42MjUtMy4wM0MzLjEyOSAxLjQ5OSAwIDQuMjUzIDAgOC4yNDljMCA0LjI3NSAzLjA2OCA3Ljg0NyA1LjgyOCAxMC4yMjdhMzMuMTQgMzMuMTQgMCAwIDAgNS42MTYgMy44NzZsLjAyOC4wMTcuMDA4LjAwMy0uMDAxLjAwM2MuMTYzLjA4NS4zNDIuMTI2LjUyMS4xMjUuMTc5LjAwMS4zNTgtLjA0MS41MjEtLjEyNWwtLjAwMS0uMDAzLjAwOC0uMDAzLjAyOC0uMDE3YTMzLjE0IDMzLjE0IDAgMCAwIDUuNjE2LTMuODc2QzIwLjkzMiAxNi4wOTYgMjQgMTIuNTI0IDI0IDguMjQ5YzAtMy45OTYtMy4xMjktNi43NS02LjM3NS02Ljc1em0tLjkxOSAxNS4yNzVhMzAuNzY2IDMwLjc2NiAwIDAgMS00LjcwMyAzLjMxNmwtLjAwNC0uMDAyLS4wMDQuMDAyYTMwLjk1NSAzMC45NTUgMCAwIDEtNC43MDMtMy4zMTZjLTIuNjc3LTIuMzA3LTUuMDQ3LTUuMjk4LTUuMDQ3LTguNTIzIDAtMi43NTQgMi4xMjEtNC41IDQuMTI1LTQuNSAyLjA2IDAgMy45MTQgMS40NzkgNC41NDQgMy42ODQuMTQzLjQ5NS41OTYuNzk3IDEuMDg2Ljc5Ni40OS4wMDEuOTQzLS4zMDIgMS4wODUtLjc5Ni42My0yLjIwNSAyLjQ4NC0zLjY4NCA0LjU0NC0zLjY4NCAyLjAwNCAwIDQuMTI1IDEuNzQ2IDQuMTI1IDQuNSAwIDMuMjI1LTIuMzcgNi4yMTYtNS4wNDggOC41MjN6Ii8+PC9zdmc+)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/estefanialunardi/Projeto-Shark-Attack/contributors)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/estefanialunardi/) 
 
 
 # When will I face a shark?
-<img src="://user-images.githubusercontent.com/101064720/161985824-a47d35b4-fffe-4f7b-9a1b-fdf25dfab432.jpg" width="800" align="right">
+<img src="https://user-images.githubusercontent.com/101064720/161985824-a47d35b4-fffe-4f7b-9a1b-fdf25dfab432.jpg" width="800" align="right">
 
 This project is a short analysis of Shark Attacks around the world existing database. My prime objective was to analyse the most probable moments to face an incident with a shark, considering the past repported events.
 
@@ -19,8 +18,6 @@ I focused my work on a quantitative analysis of the data, considering the freque
 The results of this very study shall not be used as source of cientific or advanced information on sharks behaviour or risk calculation.
 
 All the steps, opperation and code to reach the final data are avaliable on a Jupyter Notebook for anyone interested in exploring and mining the records.
-
-For the last analysis of this very work, I've used the ".merged()" method.
 
 Thank you!
 
@@ -33,6 +30,7 @@ Finally, i used the ".loc" method followed by ".replace()" method to reassure th
 
 Mass actions in columns (for all rows) were made using the ".apply()" method.
 
+For the last analysis of this very work, I've used the ".merged()" method.
 
 ## The data
 I started cleaning some columns, to work only with those which were necessary for my time analyzis. It meant date, country and time. 
