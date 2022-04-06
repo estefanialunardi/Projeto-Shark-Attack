@@ -130,7 +130,6 @@ It's clear that higher temperatures mean more shark attacks. Nevertheless, it's 
 
 
 # Let's have some fun!
-Now, let's face some 
 ## Astrology and the attacks
 ### Do sharks get influeced by the astrology sign season?
 According to atrologers, despite of our own sun signs, during a zodiac sign season, every being feels the influence of that very sign. That mean, emulating their most usual traits and personality.
@@ -150,6 +149,7 @@ Capricornus (Goat): December 22 – January 19
 Aquarius (Water Bearer): January 20 - February 18
 Pisces (Fish): February 19 – March 20
 ### Is there a more fatal season sign?
+Now, let's face some facts: regardless what do papers say, aries are not what they say. At least, not considering sharks :rofl:	
 ![tabela 2 - signos count](https://user-images.githubusercontent.com/101064720/161963357-099e76b5-7998-476c-ada9-190053200b3b.PNG)
 ![tabela 2 - signos fatais count](https://user-images.githubusercontent.com/101064720/161963374-8d43a4ad-6f94-4681-b7c9-e36e4aa96411.PNG)
 
