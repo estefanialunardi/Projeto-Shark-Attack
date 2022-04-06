@@ -9,6 +9,8 @@ The results of this very study shall not be used as source of cientific or advan
 
 All the steps, opperation and code to reach the final data are avaliable on a Jupyter Notebook for anyone interested in exploring and mining the records.
 
+For the last analysis of this very work, I've used the ".merged()" method.
+
 Thank you!
 
 ## How did I do it?
