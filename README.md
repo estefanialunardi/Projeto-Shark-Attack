@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 <img src="https://user-images.githubusercontent.com/101064720/161954804-df227729-227c-4fa8-8b24-963ab173b32f.jpg" width="300" align="right">
 
 # When will I face a shark?
@@ -14,9 +18,6 @@ For the last analysis of this very work, I've used the ".merged()" method.
 Thank you!
 
 ## How did I do it?
-### Project Libraries
-In this very project, I used Pandas and Numpy libraries.
-
 ### Cleaning Methods
 I used the ".dropna()" for rows that had less then 5 columns filled. 
 I also standardized each columns, reassuring that all data found would be using the same patterns (using ".lower()", ".strip().", .etc.).
