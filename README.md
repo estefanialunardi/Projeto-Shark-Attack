@@ -64,10 +64,10 @@ However, it's known that the luminosity is very much relevant to human activity 
 
 People use to go the beach, swim, surf, fish, etc. with day light, which means mornings and afternoons.
 
+<img src="https://user-images.githubusercontent.com/101064720/161975157-9c65aa2e-832c-4b57-affa-e664ad8aff99.PNG" align="right">
 So, the deviation could be easily explained by the ocean being crowder with more people baithing, therefor more human exposure to sharks then at the dark periods of the day. 
 
 ### Conclusion
-<img src="https://user-images.githubusercontent.com/101064720/161975157-9c65aa2e-832c-4b57-affa-e664ad8aff99.PNG" align="right">
 The higher number of occurrences at periods with more luminosity of the day, suggests that, despite knowing that sharks prefer to hunt in poor lightning, the level of human activity in the ocean is more important to the amount of attacks then sharks behaviour itself. Or, notwithstanding what researchers may believe, in fact sharks suffer from nyctalopia (night blindness) and can't hunt well in poor lighting.
 
 
