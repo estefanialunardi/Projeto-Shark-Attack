@@ -35,7 +35,6 @@ To prove this hypothesis it's necessary to analyse the rate of attacks depending
 
 ### Considerations
 <img src="https://user-images.githubusercontent.com/101064720/161961496-aef0c73a-8b9b-490c-a171-97e3e5d51226.PNG" width="210" align="left">
-
 *Dawn lasts 3 hours, corresponding to 12,5% of the day- it corresponds to 4,72% of the amount of attacks*
 
 *Morning lasts 5 hours, corresponding to 20,83% of the day- it corresponds to 28,95% of the amount of attacks.*
@@ -55,6 +54,7 @@ People use to go the beach, swim, surf, fish, etc. with day light, which means m
 So, the deviation could be easily explained by the ocean being crowder with more people baithing, therefor more human exposure to sharks then at the dark periods of the day. 
 
 ### Conclusion
+<img src="https://user-images.githubusercontent.com/101064720/161975157-9c65aa2e-832c-4b57-affa-e664ad8aff99.PNG" align="right">
 The higher number of occurrences at periods with more luminosity of the day, suggests that, despite knowing that sharks prefer to hunt in poor lightning, the level of human activity in the ocean is more important to the amount of attacks then sharks behaviour itself. Or, notwithstanding what researchers may believe, in fact sharks suffer from nyctalopia (night blindness) and can't hunt well in poor lighting.
 
 
@@ -81,6 +81,7 @@ To prove this hypothesis it's necessary to analyze if the rate of attacks depend
 
 
 ### Considerations
+<img src="https://user-images.githubusercontent.com/101064720/161963073-92326697-d03e-454d-9213-3a5f4c8e4b8a.PNG" width="210" align="right">
 Considering that the lunar phase is not relevant to human activity in the ocean (regardless the phase, people will have similar behaviour regarding going to the ocean, swimming, fishing, surfing, etc.).
 
 *New Moon lasts 2 days, corresponding to 6,66% of the month - it corresponds to 9.91 % of the amount of attacks.*
@@ -100,7 +101,7 @@ Considering that the lunar phase is not relevant to human activity in the ocean 
 *Wanning crescent lasts 5 days, corresponding to 16,66% of the month - it corresponds to 16.44% of the amount of attacks.*
 
 ### Conclusion
-<img src="https://user-images.githubusercontent.com/101064720/161963073-92326697-d03e-454d-9213-3a5f4c8e4b8a.PNG" width="210" align="right">
+<img src="https://user-images.githubusercontent.com/101064720/161963073-92326697-d03e-454d-9213-3a5f4c8e4b8a.PNG" width="210" align="left">
 Although there is a higher number of occurrences at the darkest and the brightest moon phases, suggesting that a bigger tide variation interferes on how often shark attacks occur, there is no significant difference of the rate of daily attacks during the different phases of the moon.
 That mean that the higher frequency of attacks during those phases happens because they last longer and there so there is more occurrences only in absolute terms.
 
@@ -126,6 +127,8 @@ According to research, usually mature sharks mate in higher temperatures periods
 In addition, it's know that warmer seasons attracts more people to the sea. During the summer, humans invade the marine environment and may face greater conflict with animals, as sharks. When it's winter, on the other hand, swimmers are less numerous.
 
 ### Conclusion
+<img src="https://user-images.githubusercontent.com/101064720/161975406-cbd170e5-e459-47cb-b473-d115b854cf5f.PNG" width="210" align="right">
+
 It's clear that higher temperatures mean more shark attacks. Nevertheless, it's not certain that it occurs only because of the increase of shark populations at this time of the year, once at the same period it's more likely to have more people swimming, bathing, surfing, fishing and living adventures in the sea.
 
 
