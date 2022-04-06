@@ -11,8 +11,21 @@ All the steps, opperation and code to reach the final data are avaliable on a Ju
 
 Thank you!
 
+## How did I do it?
+### Project Libraries
+In this very project, I used Pandas and Numpy libraries.
+
+### Cleaning Methods
+I used the ".dropna()" for rows that had less then 5 columns filled. 
+I also standardized each columns, reassuring that all data found would be using the same patterns (using ".lower()", ".strip().", .etc.).
+Then, I checked the values of each column (with ".unique()" or ".value_counts()") to indentify any discrepancy.
+Finally, i used the ".replace()" method to reassure that any mispelled or misfilled data were correct.
+
+Mass actions in columns (for all rows) were made using the ".apply()" method.
+
+
 ## The data
-I started cleaning and dropping some columns, to work only with those which were necessary for my time analyzis. It meant date, country and time. 
+I started cleaning some columns, to work only with those which were necessary for my time analyzis. It meant date, country and time. 
 I also let the Case Number column available, cause it is filled with important data to the date - and easier to clean then the date column, also. 
 
 After that, I divided that column into three: day, month and year.
