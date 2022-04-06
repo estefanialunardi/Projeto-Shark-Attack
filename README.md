@@ -19,7 +19,7 @@ In this very project, I used Pandas and Numpy libraries.
 I used the ".dropna()" for rows that had less then 5 columns filled. 
 I also standardized each columns, reassuring that all data found would be using the same patterns (using ".lower()", ".strip().", .etc.).
 Then, I checked the values of each column (with ".unique()" or ".value_counts()") to indentify any discrepancy.
-Finally, i used the ".replace()" method to reassure that any mispelled or misfilled data were correct.
+Finally, i used the ".loc" method followed by ".replace()" method to reassure that any mispelled or misfilled data were correct.
 
 Mass actions in columns (for all rows) were made using the ".apply()" method.
 
