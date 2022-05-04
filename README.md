@@ -72,7 +72,6 @@ However, it's known that the luminosity is very much relevant to human activity 
 
 People use to go the beach, swim, surf, fish, etc. with day light, which means mornings and afternoons.
 
-<img src="https://user-images.githubusercontent.com/101064720/161975157-9c65aa2e-832c-4b57-affa-e664ad8aff99.PNG" align="right">
 So, the deviation could be easily explained by the ocean being crowder with more people baithing, therefor more human exposure to sharks then at the dark periods of the day. 
 
 ### Conclusion
@@ -148,8 +147,6 @@ According to research, usually mature sharks mate in higher temperatures periods
 In addition, it's know that warmer seasons attracts more people to the sea. During the summer, humans invade the marine environment and may face greater conflict with animals, as sharks. When it's winter, on the other hand, swimmers are less numerous.
 
 ### Conclusion
-<img src="https://user-images.githubusercontent.com/101064720/161975406-cbd170e5-e459-47cb-b473-d115b854cf5f.PNG" width="210" align="right">
-
 It's clear that higher temperatures mean more shark attacks. Nevertheless, it's not certain that it occurs only because of the increase of shark populations at this time of the year, once at the same period it's more likely to have more people swimming, bathing, surfing, fishing and living adventures in the sea.
 
 
